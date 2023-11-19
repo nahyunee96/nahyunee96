@@ -4,14 +4,10 @@
 ---
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyunee96&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-<br /><br />
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyunee96&count_bg=%23D74580&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahyunee96&include_all_commits=true&show_icons=true&theme=dracula)
-<br />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyunee96&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<br /><br />
 ## My ability!
 
 <div style="">
@@ -37,6 +33,16 @@
     <!-- Base -->
     <div>
        <a href="https://www.notion.so/nahyun96"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+    </div>
+    
+</div>
+
+## Contact!
+
+<div style="">
+    <!-- Base -->
+    <div>
+       <a href="mailto:unique950318@gmail.com"><img src="https://img.shields.io/badge/Mail:unique950318@gmail.com-D85468?style=for-the-badge&logo=Mail&logoColor=white"></a>
     </div>
     
 </div>
