@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=welcome%20to%20nahyun%20github&fontSize=50&animation=twinkling&fontAlignY=35)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=welcome%20to%20nahyun%20github&fontSize=50&animation=twinkling&fontAlignY=35)](https://nhkim96.com)
 ---
 
 
@@ -19,8 +19,8 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
     </div>
     <br />
-    <!-- skills -->
-    <p><strong>Skill</strong></p>
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> 
@@ -32,7 +32,7 @@
 <div style="">
     <!-- Base -->
     <div>
-       <a href="https://www.notion.so/nahyun96"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+       <a href="https://www.notion.so/nahyun96/JavaScript-fa9c6d20ed3a4bf186b4074daa7ed3ee?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
     </div>
     
 </div>
